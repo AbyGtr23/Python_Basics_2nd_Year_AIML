@@ -1,0 +1,7 @@
+make a New Folder named 'Python_Basics' inside the Desktop
+
+initaite an empty git repository inside it by 
+selecting 'Open Git bash Here' 
+option inside the folder.
+
+Open the following url: https://github.com/AbyGtr23/Python_Basics_2nd_Year_AIML
